@@ -21,4 +21,4 @@ This project is a web application similar to JIB or BaNANA, designed to facilita
 * Express.js: Framework for building RESTful APIs.
 * PostgreSQL: Relational database for managing product and user data.
 #### Frontend
-* Framework/Library: (Specify the chosen framework/library here, e.g., React, Vue, or plain HTML/CSS/JavaScript.)
+* Framework/Library: Vue.js
