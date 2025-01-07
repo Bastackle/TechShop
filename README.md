@@ -1,5 +1,7 @@
 # TechShop - IT & Electronics E-commerce Website
 
+![image](https://github.com/user-attachments/assets/f5f1d195-b961-4cb8-ac8b-a6ccc1a429d6)
+
 As a part of 01418441-65 Web Technology and Web Services at the Computer Science department of Kasetsart University Sriracha Campus
 
 This project is a web application similar to JIB or BaNANA, designed to facilitate the buying and selling of IT and electronic products. The application enables users to browse products, add items to their cart, and proceed with secure purchases. Built with Node.js for backend functionality, PostgreSQL for data management.
